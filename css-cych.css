@@ -1,0 +1,214 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+	width: 100%;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: 0;
+	border-right-style: 0;
+	border-bottom-style: 0;
+	border-left-style: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #111B58;
+	background-image: url(img/construyoch_09.jpg);
+	background-repeat: repeat;
+}
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bolder;
+	color: #FFF;
+	margin: 0px;
+	padding: 0px;
+}
+span {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bolder;
+	color: #F9B200;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+p {
+	text-align: justify;
+}
+a {
+	text-decoration: none;
+	color: #EE7D1D;
+	font-weight: bold;
+}
+a:hover {
+	color: #96C263;
+	text-decoration: underline;
+}
+
+#marco {
+	padding: 0px;
+	float: none;
+	width: 810px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	overflow: hidden;
+	background-color: #FFF;
+	background-image: url(img/construyoch_09.jpg);
+	background-repeat: repeat;
+}
+
+#pilarizq {
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	width: 256px;
+	background-color: #66AF3C;
+	overflow: visible;
+	height: 100%;
+}
+
+#cuadrotexto {
+	width: 482px;
+	float: right;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #090;
+	padding-top: 0px;
+	padding-right: 35px;
+	padding-bottom: 0px;
+	padding-left: 35px;
+	margin: 0px;
+}
+#principal {
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	height: auto;
+	width: 554px;
+}
+#cabecera {
+	background-image: url(img/construyoch_03.jpg);
+	background-repeat: no-repeat;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	height: 119px;
+	width: 554px;
+}
+
+#titular {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #FFF;
+	text-align: left;
+	padding: 0px;
+	height: auto;
+	width: 230px;
+	float: left;
+	line-height: 16px;
+	margin-top: 30px;
+}
+#menu {
+	margin: 0px;
+	float: left;
+	height: auto;
+	width: 554px;
+	background-color: #298D2A;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+#footer {
+	height: 10px;
+	width: 100%;
+	background-color: #329F2C;
+	clear: both;
+	float: left;
+	padding: 0px;
+	margin-top: 7px;
+}
+
+
+ul.menuhori
+{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	cursor: default;
+	width: auto;
+}
+
+ul.menuhori li
+{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	font-size: 100%;
+	position: relative;
+	text-align: left;
+	cursor: pointer;
+	width: auto;
+	float: left;
+	border-left-width: thin;
+	border-left-style: solid;
+	border-left-color: #69B23F;
+}
+
+ul.menuhori a
+{
+	display: block;
+	cursor: pointer;
+	background-color: #298D2A;
+	color: #FFF;
+	text-decoration: none;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 0.5em;
+	padding-right: 0.80em;
+	padding-bottom: 0.5em;
+	padding-left: 0.80em;
+}
+
+ul.menuhori a:hover {
+	display: block;
+	cursor: pointer;
+	background-color: #3FA42E;
+	color: #FFF;
+	text-decoration: none;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 0.5em;
+	padding-right: 0.80em;
+	padding-bottom: 0.5em;
+	padding-left: 0.80em;
+}
+ul.menuhori span {
+	display: block;
+	cursor: pointer;
+	background-color: #F9B200;
+	color: #FFF;
+	text-decoration: none;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 0.5em;
+	padding-right: 0.80em;
+	padding-bottom: 0.5em;
+	padding-left: 0.80em;
+	font-size: 100%;
+}
+.imgsinborde {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	margin-left: 15px;
+	float: right;
+}
